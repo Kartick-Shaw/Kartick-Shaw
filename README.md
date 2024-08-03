@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/kartick-kumar-shaw-229861299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartick-kumar-shaw-229861299" height="30" width="40" /></a>
 <a href="https://kaggle.com/kartickshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartickshaw" height="30" width="40" /></a>
 <a href="https://instagram.com/@kartick_shaw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kartick_shaw_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kartickshaw999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kartickshaw999" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kartickshaw999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartickshaw999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
