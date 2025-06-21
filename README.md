@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kartickshaw999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/143oYZ9eib4Tew4y6WZWvkZHiqfi37U47/view?usp=sharing](https://drive.google.com/file/d/143oYZ9eib4Tew4y6WZWvkZHiqfi37U47/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/143oYZ9eib4Tew4y6WZWvkZHiqfi37U47/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
