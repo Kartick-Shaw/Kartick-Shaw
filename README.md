@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartick Kumar Shaw</h1>
-<h3 align="center">A passionate Data Analyst, Looking for Full Time Data Analyst Job</h3>
+<h3 align="center">A passionate Full Stack Developer, Looking for Full Time Full Stack Developer, frontend developer, backend developer Job</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartick-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="kartick-shaw" /> </p>
 
-- 🌱 I’m currently learning **Excel, Power BI**
+- 🌱 I’m currently gaining skills in **MERN Stack**
 
 - 📫 How to reach me **kartickshaw999@gmail.com**
 
